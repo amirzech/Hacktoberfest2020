@@ -1,4 +1,5 @@
 #include <stdio.h> 
+//this is why i am noob
 
 int factorial(int num) {
 
